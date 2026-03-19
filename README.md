@@ -99,7 +99,7 @@ Les données proviennent de plusieurs sources clients et financières. Elles inc
 
 ## Déploiement
 
-1. L’API et le dashboard sont hébergés sur le cloud (Heroku/ASP F1/Azure).
+1. L’API et le dashboard sont hébergés sur le cloud (Render).
 2. Le dashboard interagit avec l’API pour les prédictions en temps réel.
 3. La librairie **evidently** génère un tableau HTML pour détecter le Data Drift futur.
 
